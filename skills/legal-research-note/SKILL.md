@@ -1,6 +1,6 @@
 ---
 name: legal-research-note
-description: บันทึกข้อกฎหมายไทยที่เพิ่ง research เป็นไฟล์ .md ลงคลัง research/ ตาม template มาตรฐาน (frontmatter + หลักกฎหมาย + ปรับใช้กับ 357 + อัตราล่าสุด + ที่มา + wiki link). ใช้ทุกครั้งที่ค้น/ยืนยันข้อกฎหมาย อัตรา ค่าธรรมเนียม หรือคำพิพากษาให้บริษัท 357 Enterprise — TRIGGER: research กฎหมาย, ค้นมาตรา, จดข้อกฎหมาย, เก็บเป็นโน้ต, save legal note, บันทึกผลค้นกฎหมาย. ทำงานควบคู่ตอน auto research เสมอ
+description: "บันทึกข้อกฎหมายไทยที่เพิ่ง research เป็นไฟล์ .md ลงคลัง research/ ตาม template มาตรฐาน (frontmatter + หลักกฎหมาย + ปรับใช้กับ 357 + อัตราล่าสุด + ที่มา + wiki link). ใช้ทุกครั้งที่ค้น/ยืนยันข้อกฎหมาย อัตรา ค่าธรรมเนียม หรือคำพิพากษาให้บริษัท 357 Enterprise — TRIGGER: research กฎหมาย, ค้นมาตรา, จดข้อกฎหมาย, เก็บเป็นโน้ต, save legal note, บันทึกผลค้นกฎหมาย. ทำงานควบคู่ตอน auto research เสมอ"
 ---
 
 # Legal Research Note
