@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "legal-research-note": {
+      "source": "thirddash4/thai-legal",
+      "sourceType": "github",
+      "skillPath": "skills/legal-research-note/SKILL.md",
+      "computedHash": "9c750daa8416228d5a07edf062762a55b06387a2fc4a918bc78ad6c356167a49"
+    }
+  }
+}
